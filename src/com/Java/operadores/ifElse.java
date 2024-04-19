@@ -6,16 +6,16 @@ public class ifElse {
         a = 7;
         b  = 9;
 
-        /*String resultado = "";
+        String resultado = "";
         if(a==b) {
             resultado = "verdadeiro";
         }else{
                 resultado = "falso";
             System.out.println(resultado);
             }
-         */
 
-        String resultado =  a==b ? "verdadeiro" : "falso"; //if = ? ||| //else = :
-        System.out.println(resultado);
+
+        //String resultado = "falso"; //if = ? ||| //else = :
+        //System.out.println(resultado);
     }
 }
